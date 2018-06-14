@@ -1,0 +1,23 @@
+{
+  "name": "random-inclusive",
+  "version": "1.1.0",
+  "description": "Easy to find inclusive random number generation between two integer values.",
+  "main": "index.js",
+  "bin": {
+    "random-inclusive": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/random-inclusive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/random-inclusive/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/random-inclusive#readme"
+}
