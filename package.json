@@ -1,6 +1,6 @@
 {
   "name": "random-inclusive",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Easy to find inclusive random number generation between two integer values.",
   "main": "index.js",
   "bin": {
